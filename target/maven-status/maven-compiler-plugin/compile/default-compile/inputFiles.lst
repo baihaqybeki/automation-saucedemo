@@ -1,0 +1,15 @@
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/pages/Homepage.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/driver/strategies/Firefox.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/utils/Constants.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/driver/strategies/ChromeDocker.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/driver/DriverSingleton.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/pages/CartPage.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/driver/strategies/DriverStrategy.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/driver/strategies/DriverStrategyImplementer.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/driver/strategies/FirefoxDocker.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/driver/strategies/EdgeDocker.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/driver/strategies/Safari.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/pages/ProductDetailPage.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/driver/strategies/Chrome.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/pages/CheckoutPage.java
+/Users/muhammadbaihaqy/eclipse-workspace/automation-saucedemo/src/main/java/com/saucedemo/pages/LoginPage.java
